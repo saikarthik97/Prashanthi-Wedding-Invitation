@@ -16,6 +16,7 @@ body::-webkit-scrollbar {
 .font-esthetic {
     font-family:'Fantasy', cursive !important;
     color: #ffffff !important;
+    text-align: center;
 }
 
 .font-arabic {
@@ -120,7 +121,7 @@ footer {
 }
 .blink{
     color: red;
-    font-family: sans-serif;
+    font-family:"onest";
     font-weight: bold;
     text-align: center;
 }
