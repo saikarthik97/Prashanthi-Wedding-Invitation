@@ -160,3 +160,8 @@ footer {
     color: gold !important;
     text-align: center;
 }
+.responsive {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
